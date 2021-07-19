@@ -33,8 +33,9 @@
     font-size: 20px;
 }
 
-.btn--medium:hover, .btn--large:hover {
+.btn--medium:hover, 
+.btn--large:hover {
     background: white;
     color: #242424;
-    transition: 250ms;
+    transition: all 0.3s ease-out;
 }
